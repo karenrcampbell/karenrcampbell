@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karen Campbell</h1>
-<h3 align="center">An aspiring full-stack web developer</h3>
+<h3 align="center">An aspiring full-stack developer</h3>
 <img align="right" src="https://media2.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47uxa2ef7qa1ah6e1ovn1tdedb677o8t309yri26mo&rid=giphy.gif&ct=g" width="200" height="200" padding"100">
 
 - 🌱  Learning HTML, CSS and JavaScript
