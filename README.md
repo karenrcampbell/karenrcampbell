@@ -4,7 +4,7 @@
 
 - 🌱  Learning HTML, CSS and JavaScript
 
-- :computer: Currrently enrolled in  **OK Coders** full-stack development bootcamp
+- :computer: Currrently enrolled in  [**OK Coders**](https://www.okcoders.com) full-stack development bootcamp
 
 -  Interested in: :earth_americas: traveling the world, 👩🏼‍🍳 cooking comfort food, 🧘🏼‍♀️ fitness, :basketball: cheering for the Portland Trailblazers, :notes:  going to live-music shows, :beer: trying new Hazy IPAs and :coffee: drinking all of the coffee 
 - 📫 How to reach me: **karenruthcampbelll@gmail.com**
