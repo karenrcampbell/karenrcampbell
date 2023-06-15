@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full-stack developer</h3>
 <img align="right" src="https://media2.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47uxa2ef7qa1ah6e1ovn1tdedb677o8t309yri26mo&rid=giphy.gif&ct=g" width="200" height="200" padding"100">
 
-- 🌱  I’m currently learning: **React JSX**
+- 🌱  I’m currently learning: **React**
 
 - :computer: Student at: [**OK Coders**](https://www.okcoders.com) full-stack development bootcamp
 
